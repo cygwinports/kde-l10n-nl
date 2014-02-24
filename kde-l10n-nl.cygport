@@ -1,8 +1,10 @@
 inherit kde4
 
 NAME="kde-l10n-nl"
-VERSION=4.10.5
+VERSION=4.11.5
 RELEASE=1
 CATEGORY="KDE"
 SUMMARY="KDE Dutch translation files"
 DESCRIPTION="KDE Dutch translation files"
+
+ARCH=noarch
